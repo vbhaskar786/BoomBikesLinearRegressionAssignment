@@ -30,4 +30,4 @@ You are required to model the demand for shared bikes with the available indepen
 
 
 
-##### Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
+##### Developed as part of the Linear Regression Assignment for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
